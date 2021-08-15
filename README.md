@@ -1,1 +1,1 @@
-# Exercícios da aula de Programação Orientada à Objetosna Linguagem Java. #
+# Exercícios da aula de Programação Orientada à Objetos em Java. #
